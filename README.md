@@ -5,6 +5,8 @@ This is a application to convert a .mp4 into frames
 
 more readme info coming soon, this is a early beta for apps! and still in development!
 
+Made for [Shimoji-ee Playground](https://github.com/CTLauncherBT/Shimoji-ee-Playground)!
+
 # Installation
 
 Go into the Shimoji-ee Playground folder and create a new folder called "apps" and put the "FPF Animator" folder in it.
