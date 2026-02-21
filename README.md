@@ -7,8 +7,7 @@ more readme info coming soon, this is a early beta for apps! and still in develo
 
 # Installation
 
-Download the .py file and double click it!
-(to run this file you need PySide6)
+Go into the Shimoji-ee Playground folder and create a new folder called "apps" and put the "FPF Animator" folder in it.
 
 # PySide6
 use ```pip install PySide6``` to install it!
