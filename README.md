@@ -11,6 +11,11 @@ Made for [Shimoji-ee Playground](https://github.com/CTLauncherBT/Shimoji-ee-Play
 
 Go into the Shimoji-ee Playground folder and create a new folder called "apps" and put the "FPF Animator" folder in it.
 
-# PySide6
+# Requirements
+
+**PySide6**
 You need this!<br>
 use ```pip install PySide6``` in the terminal (cmd) to install it!
+
+**FFmpeg**
+If you don't have this please download it from the  official website!
