@@ -13,9 +13,9 @@ Go into the Shimoji-ee Playground folder and create a new folder called "apps" a
 
 # Requirements
 
-**PySide6**
+**PySide6**<br>
 You need this!<br>
 use ```pip install PySide6``` in the terminal (cmd) to install it!
 
-**FFmpeg**
+**FFmpeg**<br>
 If you don't have this please download it from the  official website!
